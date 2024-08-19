@@ -6,6 +6,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+  <img src="<blockquote class="imgur-embed-pub" lang="en" data-id="a/0V7jTdw" data-context="false" ><a href="//imgur.com/a/0V7jTdw">LOGO_LOPEZ</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 <!---
 Lopezutj/Lopezutj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
