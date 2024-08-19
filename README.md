@@ -6,8 +6,12 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-  <img src="<blockquote class="imgur-embed-pub" lang="en" data-id="a/0V7jTdw" data-context="false" ><a href="//imgur.com/a/0V7jTdw">LOGO_LOPEZ</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
+ <p align="center">
+<img src="https://i.imgur.com/kd8sus3.jpeg" alt="GataBot-MD" width="800"/>
+  
+> Antes de usar este repositorio, visita la **[Política de GataBot. 😼](https://github.com/GataNina-Li/GataBot-MD/blob/master/terms.md)** 
+</p>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/0V7jTdw"  ><a href="//imgur.com/a/0V7jTdw">LOGO_LOPEZ</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 <!---
 Lopezutj/Lopezutj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
