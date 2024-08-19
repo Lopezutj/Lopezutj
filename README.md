@@ -7,9 +7,8 @@
 - ⚡ Fun fact: ...
 
  <p align="center">
-<img src="https://imgur.com/a/0V7jTdw" alt="" width="800"/>
-  
-> Antes de usar este repositorio, visita la **[Política de GataBot. 😼](https://github.com/GataNina-Li/GataBot-MD/blob/master/terms.md)** 
+<img src="https://imgur.com/a/0V7jTdw" width="800"/>
+ 
 </p>
 <!---
 Lopezutj/Lopezutj is a ✨ special ✨ repository because its `README.md` (this file) appears onz your GitHub profile.
