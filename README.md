@@ -7,7 +7,7 @@
 - ⚡ Fun fact: ...
 
  <p align="center">
-<img src="https://imgur.com/a/0V7jTdw" alt="400" width="800"/>
+<img src="https://imgur.com/a/0V7jTdw" alt="" width="800"/>
   
 > Antes de usar este repositorio, visita la **[Política de GataBot. 😼](https://github.com/GataNina-Li/GataBot-MD/blob/master/terms.md)** 
 </p>
